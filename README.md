@@ -1,13 +1,21 @@
 <h1 style="text-align: center;">Sistema de Abertura de Chamados</h1>
+
  
-   <h3>Tecnologias do projeto</h3>
+<h3>Tecnologias do projeto</h3>
+
 
 <div>
+        <img width="60" height="70" src="https://icongr.am/devicon/php-original.svg?size=128&color=a234d5" alt=""> 
         <img width="60" height="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=a234d5" alt="">
-        <img width="60" height="70" src="https://icongr.am/devicon/php-original.svg?size=128&color=a234d5" alt="">
-        <img width="60" height="70" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=a234d5" alt="">
-        <img width="60" height="70" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt=""> 
+        <img width="50" height="50" src="https://devicon-website.vercel.app/api/bulma/plain.svg" alt="">
 </div>
+<br>
+
+
+- PHP - backend 
+- MySQL - Banco de dados
+- Bulma - Front End e customização
+
  
  <h3>Requisitos do projeto</h3>
  
