@@ -13,7 +13,7 @@
 <br>
 
 
-- PHP - backend 
+- PHP - Backend 
 - MySQL - Banco de dados
 - Bulma - Framework  Front End
 
