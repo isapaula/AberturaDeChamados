@@ -8,13 +8,14 @@
         <img width="60" height="70" src="https://icongr.am/devicon/php-original.svg?size=128&color=a234d5" alt=""> 
         <img width="60" height="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=a234d5" alt="">
         <img width="50" height="50" src="https://devicon-website.vercel.app/api/bulma/plain.svg" alt="">
+        
 </div>
 <br>
 
 
 - PHP - backend 
 - MySQL - Banco de dados
-- Bulma - Front End e customização
+- Bulma - Framework  Front End
 
  
  <h3>Requisitos do projeto</h3>
